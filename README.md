@@ -2,9 +2,7 @@
 
 Paddle Movement:
 
-
 Left Player, should use R | F keys for moving
-
 
 Right Player, should use U | J keys for moving
 #
